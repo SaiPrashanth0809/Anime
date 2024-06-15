@@ -1,7 +1,14 @@
-nav{
+body{
+    background-color: aqua;
+}
+.nav{
     display: flex;
 }
-ul{
-    flex: 1;
+.nav ul{
+    padding-left: 1080px;
+    
+}
+.nav ul li{
     display: inline-block;
+    padding-left: 80px;
 }
